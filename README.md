@@ -13,6 +13,6 @@ Plugins-SaveGame is an Unreal Engine C++ plugin that provides a save game system
 
 ## Installation
 
-    1.Buy plugin in Unreal market place https://www.unrealengine.com/marketplace/en-US/product/simple-save-game
+    1.Buy plugin in Unreal marketplace https://www.unrealengine.com/marketplace/en-US/product/simple-save-game
     2.Clone the repository or download the latest release.
     3.Don't forget to enable the plugin in the project's Edit -> Plugins menu.
